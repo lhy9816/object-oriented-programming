@@ -1,0 +1,6 @@
+package com.calvin.oohw3.enums;
+
+public enum TermType {
+    GENERALTERMS, COMBINEDTERMS, ADDTERMS, MULTITERMS, NESTEDTERMS,
+    SINTERMS, COSTERMS, XTERMS, CONSTTERMS
+}

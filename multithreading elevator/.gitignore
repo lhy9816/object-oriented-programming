@@ -1,0 +1,8 @@
+/idea
+*.exe
+*.so
+*.class
+*.txt
+*.py
+*.sh
+*.cmd
